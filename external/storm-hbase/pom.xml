@@ -21,7 +21,7 @@
     <parent>
         <artifactId>storm</artifactId>
         <groupId>org.apache.storm</groupId>
-        <version>1.1.0.2.6.3.0-SNAPSHOT</version>
+        <version>1.1.0.2.6.4.106-1</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
@@ -36,7 +36,7 @@
     </developers>
 
     <properties>
-        <hdfs.version>2.7.3.2.6.3.0-SNAPSHOT</hdfs.version>
+        <hdfs.version>2.7.3.2.6.4.106-1</hdfs.version>
     </properties>
 
     <dependencies>
